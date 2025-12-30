@@ -16,6 +16,7 @@ cube engine is a unity inspired engine to program games in python
 i am currently working on an installer for cubity 
 there is none yet for now use the zip and python is required 
 for first release i will add zip with exe for later releases
+and 3d doesnt fullty work yet
 
 ## Installation
 

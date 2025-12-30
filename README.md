@@ -4,7 +4,7 @@
 
 cube engine is a unity inspired engine to program games in python
 
-![Innovative Widget Screenshot](cubity.png)
+![cubity pic](cubity.png)
 
 ## Features
 

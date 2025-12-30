@@ -1,14 +1,14 @@
-# Project Name: Innovative Widget
+# Cube Engine
 
 ![Innovative Widget Screenshot](./images/screenshot.png)
 
 ## Description
 
-This project is a high-performance, open-source widget designed to revolutionize how you manage tasks. It provides a clean interface and robust feature set for both individual users and teams.
+cube engine is a unity inspired engine to program games in python
 
 ## Features
 
-*   **Task Management:** Easily create, update, and delete tasks.
+*   **3d rendering (cubegl):** for 3d projects on 
 *   **Progress Tracking:** Visualize your progress with intuitive charts.
 *   **Collaboration Tools:** Share tasks and collaborate with team members in real-time.
 *   **Customizable Interface:** Choose from a variety of themes to personalize your experience.

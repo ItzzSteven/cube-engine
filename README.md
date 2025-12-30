@@ -17,7 +17,8 @@ cube engine is a unity inspired engine to program games in python
 
 To install and run the project locally, follow these steps:
 
-1.  **Go to releases:**
+1.  **Go to releases:**[releases](/releases)
+
 2.  **find latest release:**
 3.  **download cubity.zip or cubity installer**
 4.  **run installer or extract zip and go to cubity.exe:**

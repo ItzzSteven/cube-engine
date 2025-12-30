@@ -2,7 +2,8 @@
 
 ## Description
 
-cube engine is a unity inspired engine to program games in python
+cube engine is a unity inspired engine to program games in python with its own script called cubityscript
+to learn how to script in cubityscript go to ![scripting](scripting.md)
 
 ![cubity pic](cubity.png)
 

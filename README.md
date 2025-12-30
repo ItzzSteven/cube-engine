@@ -18,5 +18,4 @@ cube engine is a unity inspired engine to program games in python
 To install and run the project locally, follow these steps:
 
 1.  **Go to releases:**
-    ```bash
-    git clone 
+   

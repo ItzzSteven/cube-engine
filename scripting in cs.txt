@@ -1,0 +1,35 @@
+Using Cubity Script
+
+functions
+
+2d:
+
+movement_2d(object,speed)
+
+replace object with the sprite without file extension speed is the x and y movement speed
+move_sprite is not it a loop so it only moves sprite once to fix this do:
+
+python code:
+
+# movement code in cs
+while True:
+    move_sprite(player,1,1)
+    if keyboard.is.pressed("q") :
+        break
+
+spawn_sprite(sprite,x,y)
+replace sprite with the file name of your sprite with file extension
+
+check_collision(firstsprite,secondsprite)
+replace firstsprite with the a sprite and same for second sprite but it need to be a different sprite 
+and then it will detect collision
+
+move_sprite(sprite,xspeed,yspeed)
+replace sprite with your sprite and xspeed and yspeed with the x and y speed you want the sprite to move
+
+3D
+NOTE:
+3D is not availible yet because i am currently working on cubegl
+because i want cubity to be lightweight and work on potato pc`s 
+and older pc`c also because im coding with a dell latitude e6400
+that doesnt support pyopengl or at least i dont know how to use it

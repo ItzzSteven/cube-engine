@@ -11,7 +11,7 @@ cube engine is a unity inspired engine to program games in python
 *   **3d rendering (cubegl):** for 3d projects on cubity
 *   **2d game support:** make 2d games
 *   **CubityScript:** adds functions for 2d and 3d game development
-*   **more coming:** 
+
 
 ## Installation
 

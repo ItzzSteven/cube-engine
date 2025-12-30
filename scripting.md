@@ -39,7 +39,7 @@ STOP_EVENT
 - set_layer(number)
   - Set drawing layer for last spawned sprite (lower number drawn first).
 
-2D example (main.cpk)
+2D example
 ```
 # simple 2D example
 player = spawn_sprite("player.png", 30, 50)
@@ -79,7 +79,7 @@ for i in range(1000):
   - Start or attempt to stop the 3D renderer (editor calls `render_3d_start()` automatically when running a 3D project).
   - `render_3d_stop()` is best-effort — if the renderer loop is blocking, it may not stop immediately.
 
-3D example (main.cpk)
+3D example
 ```
 # spawn and move a cube
 spawn_object("c1", "models/cube.obj", "textures/cube.png", x=0, y=0, z=20)
